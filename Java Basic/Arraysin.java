@@ -17,7 +17,7 @@ public class Arraysin {
 
         // ---------> using for loop for printing elements of an array :
 
-        // int [] marks={78,85,69,71,96};
+        int[] marks = { 78, 85, 69, 71, 96 };
 
         // for (int i=0; i<marks.length;i++) {
         // System.out.println(marks[i]);
@@ -68,10 +68,6 @@ public class Arraysin {
         // System.out.println("Numeric Array " + Arrays.toString(a));
 
         // --------------------------(4)----------------------
-        
-
-
-
 
     }
 }

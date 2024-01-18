@@ -23,7 +23,7 @@ public class BasicExercises {
 
         // -----> (3)
 
-        // int num1 = 50;
+        int num1 = 50;
         // int num2 = 3;
         // int div = num1 / num2;
         // System.out.printf("%d / %d = " + div, num1, num2);
@@ -35,6 +35,8 @@ public class BasicExercises {
         int a3 = 6;
         int operator1 = a1 + (a2 * a3);
         System.out.println(operator1);
+
+        System.out.println("..........");
 
         // int b1 = 55;
         // int b2 = -9;
