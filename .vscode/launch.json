@@ -1,0 +1,201 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AtmAlgorithm",
+            "request": "launch",
+            "mainClass": "AtmAlgorithm",
+            "projectName": "java_8a581d12"
+        },
+        {
+            "type": "java",
+            "name": "db_project",
+            "request": "launch",
+            "mainClass": "db_project",
+            "projectName": "java_8a581d12"
+        },
+        {
+            "type": "java",
+            "name": "Testing",
+            "request": "launch",
+            "mainClass": "Testing",
+            "projectName": "java_82a677b3"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList",
+            "projectName": "java_82a677b3"
+        },
+        {
+            "args": [
+                "--extensionDevelopmentPath=${workspaceFolder}"
+            ],
+            "name": "Launch Extension",
+            "outFiles": [
+                "${workspaceFolder}/out/**/*.js"
+            ],
+            "preLaunchTask": "npm",
+            "request": "launch",
+            "type": "extensionHost"
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList2",
+            "request": "launch",
+            "mainClass": "ArrayList2",
+            "projectName": "java_82a677b3"
+        },
+        {
+            "type": "java",
+            "name": "Arraysin",
+            "request": "launch",
+            "mainClass": "Arraysin",
+            "projectName": "java_82a677b3"
+        },
+        {
+            "type": "java",
+            "name": "AtmAlgorithm",
+            "request": "launch",
+            "mainClass": "AtmAlgorithm",
+            "projectName": "java_82a677b3"
+        },
+        {
+            "type": "java",
+            "name": "Averageofnum",
+            "request": "launch",
+            "mainClass": "Averageofnum",
+            "projectName": "java_82a677b3"
+        },
+        {
+            "type": "java",
+            "name": "Find_Duplicate_in_Array",
+            "request": "launch",
+            "mainClass": "Find_Duplicate_in_Array",
+            "projectName": "java_82a677b3"
+        },
+        {
+            "type": "java",
+            "name": "Firstprogram",
+            "request": "launch",
+            "mainClass": "Firstprogram",
+            "projectName": "java_82a677b3"
+        },
+        {
+            "type": "java",
+            "name": "Lists",
+            "request": "launch",
+            "mainClass": "Lists",
+            "projectName": "java_82a677b3"
+        },
+        {
+            "type": "java",
+            "name": "Merge_Two_SortedArrays",
+            "request": "launch",
+            "mainClass": "Merge_Two_SortedArrays",
+            "projectName": "java_82a677b3"
+        },
+        {
+            "type": "java",
+            "name": "Printshapes",
+            "request": "launch",
+            "mainClass": "Printshapes",
+            "projectName": "java_82a677b3"
+        },
+        {
+            "type": "java",
+            "name": "RomansToIntegers",
+            "request": "launch",
+            "mainClass": "RomansToIntegers",
+            "projectName": "java_82a677b3"
+        },
+        {
+            "type": "java",
+            "name": "Solutions",
+            "request": "launch",
+            "mainClass": "Solutions",
+            "projectName": "java_82a677b3"
+        },
+        {
+            "type": "java",
+            "name": "SpacesAndLines_count",
+            "request": "launch",
+            "mainClass": "SpacesAndLines_count",
+            "projectName": "java_82a677b3"
+        },
+        {
+            "type": "java",
+            "name": "StackDrawRun",
+            "request": "launch",
+            "mainClass": "StackDrawRun",
+            "projectName": "java_82a677b3"
+        },
+        {
+            "type": "java",
+            "name": "StringsMethodes",
+            "request": "launch",
+            "mainClass": "StringsMethodes",
+            "projectName": "java_82a677b3"
+        },
+        {
+            "type": "java",
+            "name": "Two_Sum_Array",
+            "request": "launch",
+            "mainClass": "Two_Sum_Array",
+            "projectName": "java_82a677b3"
+        },
+        {
+            "type": "java",
+            "name": "W3schoolExercises",
+            "request": "launch",
+            "mainClass": "W3schoolExercises",
+            "projectName": "java_82a677b3"
+        },
+        {
+            "type": "java",
+            "name": "BankProblem",
+            "request": "launch",
+            "mainClass": "com.Bank.BankProblem",
+            "projectName": "java_82a677b3"
+        },
+        {
+            "type": "java",
+            "name": "javaexercises",
+            "request": "launch",
+            "mainClass": "javaexercises",
+            "projectName": "java_82a677b3"
+        },
+        {
+            "type": "java",
+            "name": "practiceexrcises",
+            "request": "launch",
+            "mainClass": "practiceexrcises",
+            "projectName": "java_82a677b3"
+        },
+        {
+            "type": "java",
+            "name": "sumofvar",
+            "request": "launch",
+            "mainClass": "sumofvar",
+            "projectName": "java_82a677b3"
+        }
+    ]
+}

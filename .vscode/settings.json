@@ -1,0 +1,37 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "cSpell.words": [
+        "arrayname",
+        "jdbc",
+        "Mehran",
+        "Methodes",
+        "rollno",
+        "Totalchar"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Program Files (x86)\\MySQL\\Connector J 8.0\\mysql-connector-j-8.0.33.jar"
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "FirstMySQlConnection",
+            "database": "college",
+            "username": "root@localhost"
+        }
+    ],
+    "java.project.sourcePaths": [
+        "Java DB Project/db_project/src"
+    ]
+}

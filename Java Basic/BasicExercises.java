@@ -8,7 +8,7 @@ public class BasicExercises {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        // ----------- -----Java Basic Exercises------------------
+        // ----------- -----Java Basic Exercises------------------ 
         // -----> (1)
 
         // System.out.println("Hello !");
